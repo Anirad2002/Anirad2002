@@ -56,12 +56,11 @@ Live demo: [Zobacz →](https://anirad2002.github.io/mini-cat-gallery/)
 
 <div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anirad2002&layout=compact&theme=radical&hide_title=true&card_width=400)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anirad2002&show_icons=true&theme=tokyonight&hide_title=true)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anirad2002&show_icons=true&theme=radical&hide_title=true&card_width=400)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anirad2002&layout=compact&theme=tokyonight)
 
 </div>
-
 ---
 
 ### 📫 Kontakt
