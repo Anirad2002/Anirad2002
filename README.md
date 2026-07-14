@@ -55,12 +55,9 @@ Live demo: [Zobacz →](https://anirad2002.github.io/mini-cat-gallery/)
 ### 📈 Statystyki GitHub
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anirad2002&show_icons=true&theme=tokyonight&hide_title=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anirad2002&layout=compact&theme=tokyonight)
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Anirad2002&show_icons=true&theme=radical" alt="Anirad2002 GitHub Stats" />
 </div>
+
 ---
 
 ### 📫 Kontakt
