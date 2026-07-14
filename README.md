@@ -6,7 +6,7 @@
 **Junior Full-Stack Developer** | Szukam pierwszej pracy komercyjnej w Polsce 🇵🇱
 
 ![Profile views](https://komarev.com/ghpvc/?username=Anirad2002&color=0e75b6&style=flat&label=Profile+views) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/darynapasiura) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darynapasiura) 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:darina.pasura@gmail.com)
 
 </div>
@@ -54,14 +54,18 @@ Live demo: [Zobacz →](https://anirad2002.github.io/mini-cat-gallery/)
 
 ### 📈 Statystyki GitHub
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anirad2002&layout=compact&theme=radical)
+<div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anirad2002&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anirad2002&layout=compact&theme=radical&hide_title=true&card_width=400)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anirad2002&show_icons=true&theme=radical&hide_title=true&card_width=400)
+
+</div>
 
 ---
 
 ### 📫 Kontakt
-- **Email:** [darina.pasura@gmail.com]
+- **Email:** [darina.pasura@gmail.com](mailto:darina.pasura@gmail.com)
 - **LinkedIn:** [www.linkedin.com/in/darynapasiura]
 - **Lokalizacja:** Warsaw, Poland
 
